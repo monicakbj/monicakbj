@@ -1,4 +1,4 @@
-### Hello my name is Monica, and <a href="https://linkedin.com/in/monicakjohnson">IT Professional</a>☺</h1>
+### Hello my name is Monica, an <a href="https://linkedin.com/in/monicakjohnson">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
